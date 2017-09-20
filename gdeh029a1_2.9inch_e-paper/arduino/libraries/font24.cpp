@@ -1,10 +1,10 @@
 /**
   ******************************************************************************
-  * @file    font24.c
+  * @file    font24.cpp
   * @author  MCD Application Team
   * @version V1.0.0
   * @date    18-February-2014
-  * @brief   This file provides text font24 for STM32xx-EVAL's LCD driver. 
+  * @brief   This file provides text font24. 
   ******************************************************************************
   * @attention
   *

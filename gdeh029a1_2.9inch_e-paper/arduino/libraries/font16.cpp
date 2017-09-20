@@ -1,10 +1,10 @@
 /**
   ******************************************************************************
-  * @file    font16.c
+  * @file    font16.cpp
   * @author  MCD Application Team
   * @version V1.0.0
   * @date    18-February-2014
-  * @brief   This file provides text font16 for STM32xx-EVAL's LCD driver. 
+  * @brief   This file provides text font16. 
   ******************************************************************************
   * @attention
   *
