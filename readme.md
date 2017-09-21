@@ -14,8 +14,9 @@ Arduino libraries for Waveshare e-paper series 1.54"/1.54" B/2.13"/2.13" B/2.7"/
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
-2.  Upload the project.
-3.  The e-Paper will display images.
+2.  Open the project (arduino/epd-demo/epd-demo.ino)
+3.  Compile and upload the program.
+4.  The e-Paper will display strings, shapes and images.
 ## Supported models
 1.54"/1.54" B/2.13"/2.13" B/2.7"/2.7" B/2.9"/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
 
