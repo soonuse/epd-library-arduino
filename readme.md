@@ -10,7 +10,8 @@ Arduino libraries for Waveshare e-paper series 1.54"/1.54" B/2.13"/2.13" B/2.7"/
     RST  --> D8
     BUSY --> D7
 ## Expected result
-1.  Copy the libraries file of Arduino demo code to the libraries folder 
+1.  Copy the libraries (e-paper/arduino/libraries) of Arduino demo code to 
+    the libraries directory of Arduino IDE.
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
