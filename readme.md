@@ -18,6 +18,11 @@ Arduino libraries for Waveshare e-paper series 1.54"/1.54" B/2.13"/2.13" B/2.7"/
 2.  Open the project (arduino/epd-demo/epd-demo.ino)
 3.  Compile and upload the program.
 4.  The e-Paper will display strings, shapes and images.
+*   The RAM of Arduino UNO is only 2K. However, these 3 e-paper displays: 
+1.54" B / 7.5" / 7.5" B
+cannot support partial update of the frame memory (that is, unable to completely 
+update one frame by updating partial of it for several times).
+So the Arduino example for them can only display static image.
 ## Supported models
 1.54"/1.54" B/2.13"/2.13" B/2.7"/2.7" B/2.9"/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
 
