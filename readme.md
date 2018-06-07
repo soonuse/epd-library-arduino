@@ -1,5 +1,5 @@
 # Arduino libraries for Waveshare e-paper series
-Arduino libraries for Waveshare e-paper series 1.54"/1.54" B/2.13"/2.13" B/2.7"/2.7" B/2.9"/2.9" B/4.2"/4.2 B/7.5"/ 7.5" B
+Arduino libraries for Waveshare e-paper series
 ## Hardware connection (e-Paper --> Arduino)
     3.3V --> 3V3
     GND  --> GND
