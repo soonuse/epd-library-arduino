@@ -14,6 +14,7 @@ GDEW0154C39 1.54" dual-color e-paper library for Arduino
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
-2.  Upload the project.
-3.  The e-Paper will display images.
+2.  File > Examples > epd1in54c > epd1in54c-demo
+3.  Upload the project.
+4.  The e-Paper will display images.
 

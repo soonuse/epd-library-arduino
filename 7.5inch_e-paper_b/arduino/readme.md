@@ -14,6 +14,7 @@ GDEW075Z09 7.5" e-paper display (B) library for Arduino
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
-2.  Upload the project.
-3.  The e-Paper will display images.
+2.  File > Examples > epd7in5b > epd7in5b-demo
+3.  Upload the project.
+4.  The e-Paper will display images.
 

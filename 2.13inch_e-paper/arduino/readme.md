@@ -14,6 +14,7 @@ GDEM0213E26LT 2.13" e-paper library for Arduino
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
-2.  Upload the project.
-3.  The e-Paper will display images.
+2.  File > Examples > epd2in13 > epd2in13-demo
+3.  Upload the project.
+4.  The e-Paper will display images.
 

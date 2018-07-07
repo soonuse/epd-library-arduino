@@ -14,6 +14,7 @@ GDEH029A1 2.9" e-paper display library for Arduino
     (C:\users\username\documents\arduino\libraries by default. You can also 
     specify the location on 
     Arduino IDE --> File --> Preferences --> Sketchbook location).
-2.  Upload the project.
-3.  The e-Paper will display images.
+2.  File > Examples > epd2in9 > epd2in9-demo
+3.  Upload the project.
+4.  The e-Paper will display images.
 
